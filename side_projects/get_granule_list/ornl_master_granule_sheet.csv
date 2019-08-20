@@ -1,0 +1,333 @@
+ECHO10 Granule Elements,,,,,,,,,,,,,,,,,,,,,,Spatial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"* = GCMD controlled: https://gcmd.nasa.gov/learn/keyword_list.html
+
+These datasets were reviewed in comparison to GCMD Keyword Version: 8.5",,,,,,,,,,,,,,,,,,,,,,,,,Spatial/ Horizontal Spatial Domain (Choice of (a) or (b)),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Platforms/ Platform,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,"(a) Spatial/ Horizontal Spatial Domain/ Geometry (Choice of (a), (b), (c), or (d))",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Platforms/ Platform/ Instruments/ Instrument,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,Temporal (Choice of (a) or (b)),,,,,,,,,(b) Spatial/ Horizontal Spatial Domain/ Geometry/ Bounding Rectangle,,,,,,(c) Spatial/ Horizontal Spatial Domain/ Geometry/ GPolygon,,,,,,(d) Spatial/ Horizontal Spatial Domain/ Geometry/ Line,,,,(b) Spatial/ Horizontal Spatial Domain/ Orbit,,,,,,,,,,,,,Measured Parameters/ Measured Parameter,,,,,,,,,,,,,,,Platforms/ Platform/ Instruments/ Instrument/ Sensors/ Sensor,,,,,,,,,,,,,,,,,,,,,,,,,,,Choice of (a) or (b),,,,,,,,,,,,,,
+,,,,,Collection (Choice of (a) or (b)),,,,,Data Granule,,,,,,,PGE Version Class,,, (b) Temporal/ Range Date Time,,Spatial/ Granule Locality,Spatial/ Vertical Spatial Domains/ Vertical Spatial Domain,,,(a) Spatial/ Horizontal Spatial Domain/ Geometry/ Point,,,,,, Spatial/ Horizontal Spatial Domain/ Geometry/ Bounding Rectangle/ Center Point/ Point,,Spatial/ Horizontal Spatial Domain/ Geometry/ GPolygon/ Boundary/ Point,,Spatial/ Horizontal Spatial Domain/ Geometry/ GPolygon/ Exclusive Zone/ Boundary/ Point,,Spatial/ Horizontal Spatial Domain/ Geometry/ GPolygon/ Center Point/ Point,,Spatial/ Horizontal Spatial Domain/ Geometry/ Line/ Point,,Spatial/ Horizontal Spatial Domain/ Geometry/ Line/ Center Point/ Point,,,,,,,Spatial/ Horizontal Spatial Domain/ Orbit/ Center Point/ Point,,Orbit Calculated Spatial Domains/ Orbit Calculated Spatial Domain,,,,,,,Measured Parameters/ Measured Parameter/ QA Stats,,,,Measured Parameters/ Measured Parameter/ QA Flags,,,,,,,,Platforms/ Platform/ Instruments/ Instrument/ Characteristics/ Characteristic,,,Platforms/ Platform/ Instruments/ Instrument/ Sensors/ Sensor/ Characteristics/ Characteristic,,,Campaigns/ Campaign,Additional Attributes/ Additional Attribute,,,TwoD Coordinate System,,,,,,Online Access URLs/ Online Access URL,,,Online Resources/ Online Resource,,,,,,,,,,(a) Associated Browse Images,(b) Associated Browse Image Urls/ Provider Browse Url,,,,,,,,,,,,,
+Collection Name (Concept Id) - Granule UR,Granule UR,Insert Time,Last Update,Delete Time,(a) Collection/ Short Name,(a) Collection/ Version Id,(b) Collection/ Data Set Id,Restriction Flag,Restriction Comment,Data Granule/ Size MB Data Granule,Data Granule/ Reprocessing Planned,Data Granule/ Reprocessing Actual,Data Granule/ Producer Granule Id,Data Granule/ Day Night Flag,Data Granule/ Production Date Time,Data Granule/ Local Version Id,PGE Version Class/ PGE Name,PGE Version Class/ PGE Version, (a) Temporal/ Single Date Time,Temporal/ Range Date Time/ Beginning Date Time,Temporal/ Range Date Time/ Ending Date Time,Spatial/ Granule Locality/ Locality Value,Spatial/ Vertical Spatial Domains/ Vertical Spatial Domain/ Type,Spatial/ Vertical Spatial Domains/ Vertical Spatial Domain/ Value,Spatial/ Horizontal Spatial Domain/ Zone Identifier,Spatial/ Horizontal Spatial Domain/ Geometry/ Point/ Point Longitude,Spatial/ Horizontal Spatial Domain/ Geometry/ Point/ Point Latitude,Spatial/ Horizontal Spatial Domain/ Geometry/ Bounding Rectangle/ West Bounding Coordinate,Spatial/ Horizontal Spatial Domain/ Geometry/ Bounding Rectangle/ North Bounding Coordinate,Spatial/ Horizontal Spatial Domain/ Geometry/ Bounding Rectangle/ East Bounding Coordinate,Spatial/ Horizontal Spatial Domain/ Geometry/ Bounding Rectangle/ South Bounding Coordinate, Spatial/ Horizontal Spatial Domain/ Geometry/ Bounding Rectangle/ Center Point/ Point/ Point Longitude, Spatial/ Horizontal Spatial Domain/ Geometry/ Bounding Rectangle/ Center Point/ Point/ Point Latitude,Spatial/ Horizontal Spatial Domain/ Geometry/ GPolygon/ Boundary/ Point/ Point Longitude ,Spatial/ Horizontal Spatial Domain/ Geometry/ GPolygon/ Boundary/ Point/ Point Latitude ,Spatial/ Horizontal Spatial Domain/ Geometry/ GPolygon/ Exclusive Zone/ Boundary/ Point/ Point Longitude,Spatial/ Horizontal Spatial Domain/ Geometry/ GPolygon/ Exclusive Zone/ Boundary/ Point/ Point Latitude,Spatial/ Horizontal Spatial Domain/ Geometry/ GPolygon/ Center Point/ Point/ Point Longitude,Spatial/ Horizontal Spatial Domain/ Geometry/ GPolygon/ Center Point/ Point/ Point Latitude,Spatial/ Horizontal Spatial Domain/ Geometry/ Line/ Point/ Point Longitude,Spatial/ Horizontal Spatial Domain/ Geometry/ Line/ Point/ Point Latitude,Spatial/ Horizontal Spatial Domain/ Geometry/ Line/ Center Point/ Point/ Point Longitude,Spatial/ Horizontal Spatial Domain/ Geometry/ Line/ Center Point/ Point/ Point Latitude,Spatial/ Horizontal Spatial Domain/ Orbit/ Ascending Crossing,Spatial/ Horizontal Spatial Domain/ Orbit/ Start Lat,Spatial/ Horizontal Spatial Domain/ Orbit/ Start Direction,Spatial/ Horizontal Spatial Domain/ Orbit/ End Lat,Spatial/ Horizontal Spatial Domain/ Orbit/ End Direction,Spatial/ Horizontal Spatial Domain/ Orbit/ Center Point/ Point Longitude,Spatial/ Horizontal Spatial Domain/ Orbit/ Center Point/ Point Latitude,Orbit Calculated Spatial Domains/ Orbit Calculated Spatial Domain/ Orbital Model Name,Orbit Calculated Spatial Domains/ Orbit Calculated Spatial Domain/ Orbit Number,Orbit Calculated Spatial Domains/ Orbit Calculated Spatial Domain/ Start Orbit Number,Orbit Calculated Spatial Domains/ Orbit Calculated Spatial Domain/ Stop Orbit Number,Orbit Calculated Spatial Domains/ Orbit Calculated Spatial Domain/ Equator Crossing Longitude,Orbit Calculated Spatial Domains/ Orbit Calculated Spatial Domain/ Equator Crossing Date Time,Measured Parameters/ Measured Parameter/ Parameter Name,Measured Parameters/ Measured Parameter/ QA Stats/ QA Percent Missing Data,Measured Parameters/ Measured Parameter/ QA Stats/ QA Percent Out of Bounds Data,Measured Parameters/ Measured Parameter/ QA Stats/ QA Percent Interpolated Data,Measured Parameters/ Measured Parameter/ QA Stats/ QA Percent Cloud Cover,Measured Parameters/ Measured Parameter/ QA Flags/ Automatic Quality Flag,Measured Parameters/ Measured Parameter/ QA Flags/ Automatic Quality Flag Explanation,Measured Parameters/ Measured Parameter/ QA Flags/ Operational Quality Flag,Measured Parameters/ Measured Parameter/ QA Flags/ Operational Quality Flag Explanation,Measured Parameters/ Measured Parameter/ QA Flags/ Science Quality Flag,Measured Parameters/ Measured Parameter/ QA Flags/ Science Quality Flag Explanation,Platforms/ Platform/ Short Name *,Platforms/ Platform/ Instruments/ Instrument/ Short Name *,Platforms/ Platform/ Instruments/ Instrument/ Characteristics/ Characteristic/ Name,Platforms/ Platform/ Instruments/ Instrument/ Characteristics/ Characteristic/ Value,Platforms/ Platform/ Instruments/ Instrument/ Sensors/ Sensor/ Short Name,Platforms/ Platform/ Instruments/ Instrument/ Sensors/ Sensor/ Characteristics/ Characteristic/ Name,Platforms/ Platform/ Instruments/ Instrument/ Sensors/ Sensor/ Characteristics/ Characteristic/ Value,Platforms/ Platform/ Instruments/ Instrument/ Operation Modes/ Operation Mode,Campaigns/ Campaign/ Short Name *,Additional Attributes/ Additional Attribute/ Name,Additional Attributes/ Additional Attribute/ Values/ Value,Input Granules/ Input Granule,TwoD Coordinate System/ Start Coordinate 1,TwoD Coordinate System/ End Coordinate 1,TwoD Coordinate System/ Start Coordinate 2,TwoD Coordinate System/ End Coordinate 2,TwoD Coordinate System/ TwoD Coordinate System Name,Price,Online Access URLs/ Online Access URL/ URL,Online Access URLs/ Online Access URL/ URL Description,Online Access URLs/ Online Access URL/ Mime Type,Online Resources/ Online Resource/ URL,Online Resources/ Online Resource/ Description,Online Resources/ Online Resource/ Type,Online Resources/ Online Resource/ Mime Type,Orderable,Data Format,Visible,Cloud Cover,Metadata Standard Name,Metadata Standard Version,Assocaited Browse Images/ Provider Browse Id,Associated Browse Image Urls/ Provider Browse Url/ URL,Associated Browse Image Urls/ Provider Browse Url/ File Size,Associated Browse Image Urls/ Provider Browse Url/ Description,Associated Browse Image Urls/ Provider Browse Url/ Mime Type,Checked by:,Comments:,# Red fields (absolute errors):,# Yellow fields (recommended fixes),# Blue fields (observations/ may or may not need to be fixed),"# np fields (not in the metadata, and not marked by any color)",# fields checked (103 - #np fields),% red fields,% yellow fields,% blue fields
+"ISLSCP II MODIS (Collection 4) IGBP Land Cover, 2000-2001 (G179024881-ORNL_DAAC) - ISLSCP_II_MODISLC.modis_landcover_qdeg.zip",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,"Same parameters as science keywords at collection level. 
+
+1. Change from ""LAND COVER"" to ""LAND USE/LAND COVER CLASSIFICATION"" to match the updated science keyword at the collection level.
+
+2. Recommend removing all other measured parameters (besides ""LAND USE/LAND COVER CLASSIFICATION"") since land cover is the only parameter directly provided in the data.  ",np,np,np,np,np,np,np,np,np,np,"1. Recommend removing the NOAA-14 platform and associated instruments since these data were generated solely from TERRA/MODIS.
+
+2. Change the platform short name to 'TERRA' to conform with the GCMD keyword list (Only list the short name, not the short name and long name together)
+
+3. Recommend removing the 'FIELD INVESTIGATION' platform and associated instruments since these data were generated solely from TERRA/MODIS.","1. Remove""AVHRR"" since these data were generated solely from TERRA/MODIS.
+
+2. Change from ""MODIS (MODERATE-RESOLUTION IMAGING SPECTRORADIOMETER)"" to ""MODIS""
+
+3. Remove""LEAF AREA METER"" and ""STEEL MEASURING TAPE"" since these data were generated solely from TERRA/MODIS.",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,"""ISLSCP II"" is not currently listed as a GCMD project keyword. Please request to have this keyword added to the GCMD directory. ",np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Recommend including the THREDDS link to this granule. 
+
+4. Consider including links to companion files 
+-(https://daac.ornl.gov/daacdata/islscp_ii/vegetation/modis_landcover_xdeg//comp/0_modis_landcover_readme.txt)
+-(https://daac.ornl.gov/daacdata/islscp_ii/vegetation/modis_landcover_xdeg//comp/1_modis_landcover_doc.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a THREDDS link is added, recommend listing ""THREDDS DATA"" as the URL type. 
+
+4. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Recommend changing from ""txt"" to ""ESRI ASCII GRID""
+Ensure that the data format provided at the granule level matches the data format provided at the collection level. ",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 12/13/2016, 2:43 PM
+Jeanne le Roux; 1/9/2017  3:32 PM",,1,1,1,76,25,4,4,4
+"LBA-ECO LC-24 Forest Cover Map from MODIS, 500-m, South America: 2001 (G179019455-ORNL_DAAC) - LC24_MODIS_FOREST_COVER_500M.sa_forest2001",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,OK,np,np,np,np,np,np,np,np,np,np,"Please change from ""TERRA (MORNING EQUATORIAL CROSSING TIME SATELLITE)"" to just ""TERRA""","Please change from ""MODIS (MODERATE-RESOLUTION IMAGING SPECTRORADIOMETER)"" to just ""MODIS""",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,OK,np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Consider including a link to the companion file
+(https://daac.ornl.gov/daacdata/lba/land_use_land_cover_change/LC24_MODIS_Forest_Cover_1km//comp/LC24_MODIS_Forest_Cover_1km.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"""txt""
+
+Recommend also listing ""GeoTIFF"" as a data format since the data visualization is provided as a GeoTIFF image. The abstract also refers to the data as being in GeoTIFF.   ",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/4/2017, 11:01 AM
+Jeanne le Roux; 1/9/2017  3:45 PM",,1,1,1,76,25,4,4,4
+LBA-ECO LC-39 MODIS Active Fire and Frequency Data for South America: 2000-2007 (G179125848-ORNL_DAAC) - LC39_MODIS_FIRE_SA.sa_2001_2002_terra_subset.zip,OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,"Currently ""-53.308""
+It appears that the south and east bounding coordinate have been switched.
+
+Please change the east bounding coordinate to ""-34.828""  ","Currently ""-34.86""
+It appears that the south and east bounding coordinate have been switched.
+
+Please change the south bounding coordinate to ""-53.809""  ",np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,OK,np,np,np,np,np,np,np,np,np,np,"1. Please change from ""TERRA (MORNING EQUATORIAL CROSSING TIME SATELLITE)"" to just ""TERRA""
+
+2. ""AQUA"" is currently listed as a platform for this granule, however ""AQUA"" was only part of the campaign from 2003-2007 (according to the URL description), and this specific granule only covers data from 2001-2002. Therefore, AQUA should not be listed as a platform for this granule.","Please change from ""MODIS (MODERATE-RESOLUTION IMAGING SPECTRORADIOMETER)"" to just ""MODIS""",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,OK,np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3.  Consider including a link to the companion file
+(https://daac.ornl.gov/daacdata/lba/land_use_land_cover_change/LC39_MODIS_Fire_SA//comp/LC39_MODIS_Fire_SA.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"""txt""
+
+Recommend changing the data format to ""Shapefile"" or ""Point Shapefile"" for this particular granule, since data consists of a shapefile containing multiple point locations.  ",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/4/2017, 12:14 PM
+
+Jeanne le Roux; 1/9/2017  4:06 PM",,1,1,1,76,25,4,4,4
+"LBA-ECO LC-15 Vegetation Cover Types from MODIS, 1-km, Amazon Basin: 2000-2001 (G179057372-ORNL_DAAC) - LC15_MODIS_TREECOVER.tree_geotiff.zip",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,"Change from ""LAND COVER"" to ""LAND USE/LAND COVER CLASSIFICATION"" to match the updated science keyword at the collection level.",np,np,np,np,np,np,np,np,np,np,"Please change from ""TERRA (MORNING EQUATORIAL CROSSING TIME SATELLITE)"" to just ""TERRA""","Please change from ""MODIS (MODERATE-RESOLUTION IMAGING SPECTRORADIOMETER)"" to just ""MODIS""",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,OK,np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Consider including a link to the companion file
+(https://daac.ornl.gov/daacdata/lba/land_use_land_cover_change/LC15_MODIS_TreeCover//comp/LC15_MODIS_TreeCover.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Recommend this be changed from ""txt"" to ""GeoTIFF"" 
+The data consists of a GeoTIFF file which stores raster graphics.",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/4/2017, 2:50 PM
+
+Adam Sisco; 1/12/2017, 11:03 AM",,1,1,1,76,25,4,4,4
+"LBA-ECO LC-07 Amazon Floodplain Lake Chlorophyll from MODIS, Para, Brazil: 2002-2003 (G179011199-ORNL_DAAC) - LC07_LAKE_CHLORO.RIO_MasCla_PHYChl_SEP2003.tif",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,Recommend LAKES be changed to LAKES/RESERVOIRS (UUID = 3d64f625-fb84-4178-ad08-4be2dd15979b) to conform with GCMD vocabulary and collection level metadata.,np,np,np,np,np,np,np,np,np,np,"Please change from ""TERRA (MORNING EQUATORIAL CROSSING TIME SATELLITE)"" to just ""TERRA""","Please change from ""MODIS (MODERATE-RESOLUTION IMAGING SPECTRORADIOMETER)"" to just ""MODIS""",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,"Please change from ""Large Scale Biosphere-Atmosphere"" to ""LBA""",np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Consider including a link to the companion file 
+(https://daac.ornl.gov/daacdata/lba/land_use_land_cover_change/LC07_Lake_Chlorophyll_MODIS/comp/LC07_Lake_Chlorophyll_MODIS.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Recommend this be changed from ""txt"" to ""GeoTIFF"" 
+The data consists of a GeoTIFF file which stores raster graphics.",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/4/2017, 4:03 PM
+
+Adam Sisco; 1/12/2017, 11:37 AM",,1,1,1,76,25,4,4,4
+"LBA-ECO LC-22 Land Cover from MODIS Vegetation Indices, Mato Grosso, Brazil (G179125805-ORNL_DAAC) - LC22_MODIS_PHENOLOGY.Mato_Grosso_2000_2001_classification_from_modis_phenology.tif",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,"Change from ""LAND COVER"" to ""LAND USE/LAND COVER CLASSIFICATION"" to match the updated science keyword at the collection level.",np,np,np,np,np,np,np,np,np,np,"Change from ""TERRA (MORNING EQUATORIAL CROSSING TIME SATELLITE)"" to just ""TERRA""
+
+(Only list the short name, not the short name and long name together)","Change to ""MODIS""
+(List only the short name, not both the short and long name). ",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,OK,np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Consider including links to companion files
+(https://daac.ornl.gov/daacdata/lba/land_use_land_cover_change/LC22_MODIS_Phenology_Mato_Grosso//comp/LC22_MODIS_Phenology_Mato_Grosso.pdf)
+(https://daac.ornl.gov/daacdata/lba/land_use_land_cover_change/LC22_MODIS_Phenology_Mato_Grosso//comp/morton_mato_grosso_land_cover_chapter_lba_archive.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Recommend this be changed from ""txt"" to ""GeoTIFF"" 
+The data consists of a GeoTIFF file which stores raster graphics.",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/9/2017, 12:11 PM
+
+Adam Sisco; 1/12/2017 12:05 PM",,1,1,1,76,25,4,4,4
+"ISLSCP II Snow-Free, Spatially Complete, 16 Day Albedo, 2002 (G179059866-ORNL_DAAC) - ISLSCP_II_snofree_16day_albedo.modis_filled_bsa_hd_2002.zip",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,"Currently listed as ""2002-12-31T00:00:00Z"" in the metadata. However, all granule level data files appear to terminate on date ""2002-12-19""  Recommend changing the metadata to ""2002-12-19T00:00:00Z"" for accuracy.",np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,"Recommend removing all measured parameters besides ""ALBEDO"" and ""REFLECTANCE"" since these are the only variables provided directly by the data. This also reflects the recommended changes for the science keywords at the collection level. ",np,np,np,np,np,np,np,np,np,np,"1. Recommend removing the NOAA-14 platform and associated instruments since these data were generated solely from TERRA/MODIS.
+
+2. Change the platform short name to 'TERRA' to conform with the GCMD keyword list (Only list the short name, not the short name and long name together).
+
+3. Recommend removing the 'FIELD INVESTIGATION' platform and associated instruments since these data were generated solely from TERRA/MODIS.","1. Remove""AVHRR"" since these data were generated solely from TERRA/MODIS.
+
+2. Change from ""MODIS (MODERATE-RESOLUTION IMAGING SPECTRORADIOMETER)"" to ""MODIS""
+
+3. Remove""LEAF AREA METER"" and ""STEEL MEASURING TAPE"" since these data were generated solely from TERRA/MODIS.",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,"""ISLSCP II"" is not currently listed as a GCMD project keyword. Please request to have this keyword added to the GCMD directory. ",np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Recommend including the THREDDS link to this granule. 
+
+4. Consider including links to companion files
+(https://daac.ornl.gov/daacdata/islscp_ii/vegetation/modis_albedo_2002_filled_xdeg//comp/1_modis_fill_alb_2002_doc.pdf)
+(https://daac.ornl.gov/daacdata/islscp_ii/vegetation/modis_albedo_2002_filled_xdeg//comp/0_modis_fill_alb_readme.txt)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a THREDDS link is added, recommend listing ""THREDDS DATA"" as the URL type. 
+
+4. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Online dataset documentation (found here: http://daac.ornl.gov/ISLSCP_II/guides/islscp_ii_monthly_snowfree_albedo_16day.html) says files are ESRI ASCII GRID. 
+
+Recommend changing the data format from ""txt"" to ""ESRI ASCII GRID""",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/9/2017, 2:49 PM
+
+Adam Sisco; 1/12/2017 3:34 PM",,1,1,1,76,25,4,4,4
+"ISLSCP II MODIS (Collection 4) Albedo, 2002 (G179112287-ORNL_DAAC) - ISLSCP_II_MODIS_ALBEDO_2002.modis_qa_hd_2002.zip",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,"Currently listed as ""2002-12-31T00:00:00Z"" in the metadata. However, all granule level data files appear to terminate on date ""2002-12-19""  Recommend changing the metadata to ""2002-12-19T00:00:00Z"" for accuracy.",np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,"Recommend removing all measured parameters besides ""ALBEDO"" and ""REFLECTANCE"" since these are the only variables provided directly by the data. This also reflects the recommended changes for the science keywords at the collection level. ",np,np,np,np,np,np,np,np,np,np,"1. Recommend removing the NOAA-14 platform and associated instruments since these data were generated solely from TERRA/MODIS.
+
+2. Change the platform short name to 'TERRA' to conform with the GCMD keyword list (Only list the short name, not the short name and long name together)
+
+3. Recommend removing the 'FIELD INVESTIGATION' platform and associated instruments since these data were generated solely from TERRA/MODIS.","1. Change the platform long name to the following, to conform to GCMD:
+Earth Observing System, TERRA (AM-1) (Only list the long name, not the short name and long name together)
+
+2. Recommend removing the NOAA-14 platform and associated instruments since these data were generated solely from TERRA/MODIS.
+
+3. Recommend removing the 'FIELD INVESTIGATION' platform and associated instruments since these data were generated solely from TERRA/MODIS.",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,"""ISLSCP II"" is not currently listed as a GCMD project keyword. Please request to have this keyword added to the GCMD directory. ",np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Consider including links to companion files 
+(https://daac.ornl.gov/daacdata/islscp_ii/vegetation/modis_albedo_2002_xdeg//comp/0_modis_albedo_2002_readme.txt)
+(https://daac.ornl.gov/daacdata/islscp_ii/vegetation/modis_albedo_2002_xdeg//comp/1_modis_albedo_2002_doc.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Online dataset documentation (found here: http://daac.ornl.gov/ISLSCP_II/guides/islscp_ii_monthly_snowfree_albedo_16day.html) says files are ESRI ASCII GRID. 
+
+Recommend changing the data format from ""txt"" to ""ESRI ASCII GRID""",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/9/2017, 3:25 PM
+Patrick Staton; 1/12/2017, 4:03 PM",,1,1,1,76,25,4,4,4
+"LBA-ECO LC-15 Aerodynamic Roughness Maps of Vegetation Canopies, Amazon Basin: 2000 (G179125408-ORNL_DAAC) - LC15_ROUGHNESS_MAP.LC15_amazon_z0_map.zip",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,"Change the east bounding coordinate to ""-33.57"" to match the extent of the data file.","Change the south bounding coordinate to ""-21.13"" to match the extent of the data file. ",np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,OK,np,np,np,np,np,np,np,np,np,np,"1. Recommend only using ""COMPUTERS"" as the platform for this dataset.  Including the platform/instrument information for inputs into the model may be confusing for users who are searching for data by platform or instrument since the final data product is the output from a regression model.
+
+2. Change from ""COMPUTER MODEL"" to ""COMPUTERS"" to conform to GCMD. ","1. Change from ""ANALYSIS"" to ""Data Analysis"" to conform to GCMD keywords
+
+2. Remove all other instruments (See comment in column BN)",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,OK,np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Consider including a link to the companion file (https://daac.ornl.gov/daacdata/lba/land_use_land_cover_change/LC15_Roughness_Map//comp/LC15_Roughness_Map.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Change from ""txt"" to ""GeoTIFF""",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/9/2017, 4:38 PM
+Patrick Staton; 1/12/2017, 4:10 PM",,1,1,1,76,25,4,4,4
+"ISLSCP II University of Maryland Global Land Cover Classifications, 1992-1993 (G179011265-ORNL_DAAC) - ISLSCP_II_UMD_LC.umd_landcover_hdeg.zip",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,"Same parameters as science keywords at collection level. 
+
+1. Change from ""LAND COVER"" to ""LAND USE/LAND COVER CLASSIFICATION"" to match the updated science keyword at the collection level.
+
+2. Recommend removing all other measured parameters (besides ""LAND USE/LAND COVER CLASSIFICATION"") since land cover is the only parameter directly provided in the data.  ",np,np,np,np,np,np,np,np,np,np,"1. Currently, the metadata lists NOAA-14 as the platform. The AVHRR imagery used to generate this data set is dated from April 1992 - March 1993. The NOAA-14 satellite was not launched until December 1994, therefore, NOAA-14 is not the correct platform for this data set. The satellites NOAA-9, NOAA-10, NOAA-11, and NOAA-12 were all active during the time frame associated with the data collection. ORNL should determine which satellites were used for this data set and list them in the format described in the third point (3.) following below.  
+
+2. Recommend removing the TERRA (MORNING EQUATORIAL CROSSING TIME SATELLITE) and the FIELD INVESTIGATION platforms and associated instruments since these data were generated solely from NOAA-XX/AVHRR.
+
+3. Change the platform short name to 'NOAA-XX' to conform to the GCMD keywords list (only list the short name, not the short name and long name together)","1. Recommend removing the MODIS, LEAF AREA METER and the STEEL MEASURING TAPE instruments since these data were generated solely by AVHRR. 
+
+2. Change from ""AVHRR (ADVANCED VERY HIGH RESOLUTION RADIOMETER)"" to ""AVHRR"" to conform to GCMD (i.e. only list the short name in this field). ",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,"""ISLSCP II"" is not currently listed as a GCMD project keyword. Please request to have this keyword added to the GCMD directory. ",np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Recommend including the THREDDS link to this granule. 
+
+4. Consider including links to companion files 
+(https://daac.ornl.gov/daacdata/islscp_ii/vegetation/umd_landcover_xdeg//comp/0_umd_landcover_readme.txt)
+(https://daac.ornl.gov/daacdata/islscp_ii/vegetation/umd_landcover_xdeg//comp/1_umd_landcover_doc.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a THREDDS link is added, recommend listing ""THREDDS DATA"" as the URL type. 
+
+4. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Recommend changing from ""txt"" to ""ESRI ASCII GRID""
+Ensure that the data format provided at the granule level matches the data format provided at the collection level. ",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/10/2017, 1:53 PM
+Patrick Staton; 1/12/2017, 12:39 PM",,1,1,1,76,25,4,4,4
+"ISLSCP II Earth Radiation Budget Experiment (ERBE) Monthly Albedo, 1986-1990 (G179076319-ORNL_DAAC) - ISCLSCP_II_ERBE_ALBEDO.erbe_albedo_1deg_1988.zip",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,"Recommend removing all measured parameters besides ""ALBEDO"" and ""REFLECTANCE"" since these are the only variables provided directly by the data. This also reflects the recommended changes for the science keywords at the collection level. ",np,np,np,np,np,np,np,np,np,np,"1. Data set documentation states that data were collected with 3 satellites: ERBS, NOAA-9, and NOAA-10. Therefore, recommend removing all platforms and associated instruments currently included in the metadata (NOAA-14, TERRA, FIELD INVESTIGATION) since these platforms were not utilized for data collection.
+
+2. Please add the following platform short names:
+NOAA-9 (uuid = 304d5731-5627-4f4a-9b9e-3de6f39f9b3d)
+NOAA-10 (uuid = 19ca6acd-5a83-4f3c-8237-fd3178dad1af)
+ERBS (uuid = d69f8964-e168-489e-9bda-a273f9a3a167)","1. Recommend removing all associated instruments (AVHRR, MODIS, LEAF AREA METER, etc...).
+
+2. Recommend adding ERBE (uuid = e432d8db-ec9c-44fa-9942-d6b1eb993126) to all 3 platform hierarchies.",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,"""ISLSCP II"" is not currently listed as a GCMD project keyword. Please request to have this keyword added to the GCMD directory. ",np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Recommend including the THREDDS link to this granule. 
+
+4. Consider including links to companion files 
+(https://daac.ornl.gov/daacdata/islscp_ii/vegetation/erbe_albedo_monthly_xdeg//comp/1_erbe_albedo_monthly_doc.pdf)
+(https://daac.ornl.gov/daacdata/islscp_ii/vegetation/erbe_albedo_monthly_xdeg//comp/0_erbe_albedo_readme.txt)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a THREDDS link is added, recommend listing ""THREDDS DATA"" as the URL type. 
+
+4. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Recommend changing from ""txt"" to ""ASCII""",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/10/2017, 2:23 PM
+Patrick Staton, 1/12/2017, 11:11 AM",,1,1,1,76,25,4,4,4
+ISLSCP II Global Sea Ice Concentration (G179061640-ORNL_DAAC) - ISLSCP_SEA_ICE_EXTENT.sea_ice_data_1deg.zip,OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,"The only variable directly provided in the data is sea ice concentration. Therefore, recommend only listing ""SEA ICE CONCENTRATION"" and ""SEA ICE EXTENT"" as measured parameters. Please remove all other parameters from the metadata. ",np,np,np,np,np,np,np,np,np,np,"1. Change from ""COMPUTER MODEL"" to ""COMPUTERS"" to conform to GCMD.
+
+2. Recommend only using ""COMPUTERS"" as the platform for this dataset.  Including the platform/instrument information for inputs into the model may be confusing for users who are searching for data by platform or instrument since the final data product is derived.
+
+3.  Recommend removing ""TOWER"", ""LABORATORY"", and ""FIELD INVESTIGATION.""","1. Change from ""ANALYSIS"" to ""Data Analysis"" to conform to GCMD keywords.
+
+2. Remove all other instruments (See comment in previous field)",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,"""ISLSCP II"" is not currently listed as a GCMD project keyword. Please request to have this keyword added to the GCMD directory. ",np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Recommend including the THREDDS link to this granule. 
+
+4. Consider including links to companion files 
+(https://daac.ornl.gov/daacdata/islscp_ii/snow_sea-ice_oceans/sea_ice_extent_xdeg//comp/1_sea_ice_extent_doc.pdf)
+(https://daac.ornl.gov/daacdata/islscp_ii/snow_sea-ice_oceans/sea_ice_extent_xdeg//comp/0_sea_ice_extent_readme.txt)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a THREDDS link is added, recommend listing ""THREDDS DATA"" as the URL type. 
+
+4. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Change from ""txt"" to ""CSV"" since the granule is provided as a CSV.",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/10/2017, 3:26 PM
+Patrick Staton; 1/12/2017, 11:01 AM",,1,1,1,76,25,4,4,4
+"LBA-ECO LC-01 SRTM 90-Meter Digital Elevation Model, Northern Ecuadorian Amazon (G179070856-ORNL_DAAC) - LC01_SRTM_DEM.srtm90_elev.tif",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,OK,np,np,np,np,np,np,np,np,np,np,"""SRTM (SHUTTLE RADAR TOPOGRAPHY MISSION)"" is listed as a campaign keyword, not a platform. Recommend listing ""Endeavour Space Shuttle"" as the platform short name. ","1. Currently listed as ""SAR (SYNTHETIC APERTURE RADAR)"" which does not comply with GCMD. 
+Recommend changing to ""IFSAR""
+
+P.S.
+Found: Earth Remote Sensing Instruments >Active Remote Sensing > Imaging Radars > "" "" > SAR > Synthetic Aperture Radar
+Not sure if this would count or not
+
+2. Also recommend listing ""SRTM"" as an instrument short name since it is included in the GCMD instruments list. ",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,OK,np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.   
+
+2. Recommend including a link to the ORNL DAAC OGC WMS/WCS service for this granule.
+
+3. Consider including a link to the companion file
+(https://daac.ornl.gov/daacdata/lba/land_use_land_cover_change/LC01_SRTM_DEM_90m_NEC/comp/LC01_SRTM_DEM_90m_NEC.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to the WMS/WCS service is added, recommend listing ""MAP SERVICE"" as the associated type.
+
+3. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Change from ""txt"" to ""GeoTIFF""",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/11/2017, 3:41 PM
+Patrick Staton; 1/12/2017, 10:33 AM",,1,1,1,76,25,4,4,4
+ISLSCP II Carbon Dioxide Flux at Harvard Forest and Northern BOREAS Sites (G179073998-ORNL_DAAC) - FLUXNET_POINT.fluxnet_HV_1995.zip,OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,"1. Recommend removing ""METHANE"" and ""SEDIMENT TRANSPORT"" since measurements of these components are not directly provided in the data.
+
+2. Change ""RESPIRATION"" to ""RESPIRATION RATE"" to match updated science keyword at collection level.",np,np,np,np,np,np,np,np,np,np,"1. Change from ""COMPUTER MODEL"" to ""COMPUTERS"" to conform to GCMD.
+
+2. ""TOWER"" does not conform to GCMD. Please replace with a keyword valid in GCMD.
+
+3. Consider consolidating the ""TOWER"", ""FIELD INVESTIGATION"", and ""LABORATORY"" platforms into 1 platform keyword representative of the entire FLUXNET system. Consider requesting that ""FLUXNET"" be added as a GCMD platform keyword. 
+
+4. Another alternative (to #3) is using ""GROUND STATIONS"" as the platform keyword and listing all applicable instruments/ sensors underneath. ","1. Change from ""ANALYSIS"" to ""Data Analysis"" to conform to GCMD Version 8.4 keywords
+
+2. Change from ""EDDY CORRELATION APPARATUS"" to ""EDDY CORRELATION DEVICES"" to conform to GCMD Version 8.4 keywords.
+
+3. Change from ""GAS EXCHANGE SYSTEM"" to ""LICOR GAS EXCHANGE SYSTEM"" to conform to GCMD Version 8.4 keywords.
+
+4. ""GC-FID (GAS CHROMATOGRAPH/FLAME IONIZATION DETECTOR)"" does not conform to GCMD. Please replace this instrument with the following GCMD instrument keywords:
+""GAS CHROMATOGRAPHS""
+and
+""FLAME-IONIZATION DETECTOR""
+
+5. Recommend listing ""ANEMOMETERS"" as an instrument.
+
+6. Consider listing all of the instruments (with the exception of ""Data Analysis"") under a single platform keyword.",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,"""ISLSCP II"" is not currently listed as a GCMD project keyword. Please request to have this keyword added to the GCMD directory. ",np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.  
+
+2. Consider including links to companion files 
+(https://daac.ornl.gov/daacdata/islscp_ii/carbon/fluxnet_point//comp/1_fluxnet_point_doc.pdf)
+(https://daac.ornl.gov/daacdata/islscp_ii/carbon/fluxnet_point//comp/fluxnet_point.pdf)
+(https://daac.ornl.gov/daacdata/islscp_ii/carbon/fluxnet_point//comp/0_fluxnet_readme.txt)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Change from ""txt"" to ""CSV"" since the data is provided in a series of csv files. ",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/11/2017, 4:43 PM
+
+Patrick Staton; 1/12/17, 10:14 AM",,1,1,1,76,25,4,4,4
+"FLUXNET Marconi Conference Gap-Filled Flux and Meteorology Data, 1992-2000 (G179010785-ORNL_DAAC) - fluxnet_marconi.HV92n_lu_u0_mm.flx",OK,OK,OK,np,OK,OK,np,np,np,OK,np,np,np,OK,OK,np,np,np,np,OK,OK,np,np,np,np,np,np,OK,OK,OK,OK,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,OK,np,np,np,np,np,np,np,np,np,np,"1. Change from ""METEOROLOGICAL STATION"" to ""METEOROLOGICAL STATIONS"" to conform to GCMD keywords.
+
+2. ""TOWER"" does not conform to GCMD. Please replace with a keyword valid in GCMD. Consider requesting that ""FLUXNET"" be added as a GCMD platform keyword.","Change the following Instrument Short Names to conform to GCMD keywords:
+(a) ""THERMISTOR"" to ""THERMISTORS""
+(b) ""AIR THERMOMETER"" to ""THERMOMETERS""
+(c) ""QUANTUM SENSOR"" to ""LICOR QUANTUM SENSOR""
+(d) ""ANEMOMETER"" to ""ANEMOMETERS""
+(e) ""PYRANOMETER"" to ""PYRANOMETERS""
+(f) ""EDDY CORRELATION APPARATUS"" to ""EDDY CORRELATION DEVICES""",np,np,Same as instrument. Consider removing since this is redundant information.,np,np,np,OK,np,np,np,np,np,np,np,np,OK,OK,"The collection level abstract is currently listed as the URL description. Recommend removing the abstract, and replacing with a description which indicates to the user that the link provides direct download access of the granule. ",np,"1. Add a link to an appropriate dataset landing page. This should be done via the DOI link, if applicable.  
+
+2. Consider including links to companion files 
+(https://daac.ornl.gov/daacdata/fluxnet/gap_filled_marconi/comp/0_DataPolicy.txt)
+(https://daac.ornl.gov/daacdata/fluxnet/gap_filled_marconi/comp/marconi_gap_filled.pdf)
+(https://daac.ornl.gov/daacdata/fluxnet/gap_filled_marconi/comp/Marconi_gapzips_website.pdf)",Recommend providing a URL description for each Online Resource URL. ,"1. If a DOI link is added, the online resource type must include ""DOI"" in its value.
+
+2. If a link to a companion file is added, be sure to add a valid URL type.",np,OK,"Recommend changing from ""txt"" to ""ASCII""",np,np,np,np,np,np,np,np,np,"Kaitlyn Pate; 1/11/2017, 5:10 PM",,1,1,1,76,25,4,4,4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total = ,,,,,,,,
